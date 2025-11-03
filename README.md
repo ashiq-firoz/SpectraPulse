@@ -36,6 +36,11 @@ Run the main script:
 python t.py
 ```
 
+Running the interface
+```
+streamlit run interface.py
+```
+
 - Position your face in front of the webcam
 - The green rectangle shows the detected face
 - The blue rectangle shows the forehead ROI used for measurement

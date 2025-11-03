@@ -43,8 +43,8 @@ def rgb2yiq(rgb):
 # --------------------
 # === STREAMLIT UI ===
 # --------------------
-st.set_page_config(page_title="Real-time HR (Streamlit)", layout="wide")
-st.title("💓 Real-time Heart Rate Estimation (Streamlit)")
+st.set_page_config(page_title="Real-time HR (SpectraPulse)", layout="wide")
+st.title("💓 Real-time Heart Rate Estimation (SpectraPulse)")
 
 col_left, col_center, col_right = st.columns([1, 1.2, 1])  # make center slightly bigger
 
